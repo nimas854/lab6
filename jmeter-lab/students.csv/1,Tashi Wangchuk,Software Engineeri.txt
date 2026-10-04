@@ -1,0 +1,10 @@
+1,Tashi Wangchuk,Software Engineering
+2,Sonam Lhamo,Information Technology
+3,Dorji Tenzin,Software Engineering
+1,Choki Zangmo,Electrical Engineering
+2,Ugyen Dema,Civil Engineering
+3,Kinley Namgay,Software Engineering
+1,Dechen Pelden,Information Technology
+2,Jigme Rinzin,Software Engineering
+3,Yangchen Om,Electrical Engineering
+1,Namgay Wangdi,Civil Engineering

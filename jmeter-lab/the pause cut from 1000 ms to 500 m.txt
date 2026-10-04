@@ -1,0 +1,1 @@
+the pause cut from 1000 ms to 500 ms, each user sends about twice as many requests. I predict throughput of about 35 to 37 requests per second (up from 18.6) and response times that stay at about 2 ms. Write this down before you run it.
